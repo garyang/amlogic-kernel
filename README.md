@@ -1,2 +1,0 @@
-# amlogic-kernel
-test kernel
